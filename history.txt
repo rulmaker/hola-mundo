@@ -1,0 +1,455 @@
+    1  node -v
+    2  npm -v
+    3  node
+    4  npm view express
+    5  npm view react
+    6  npm view colors
+    7  git init
+    8  git add .
+    9  git status
+   10  touch .gitignore
+   11  git status
+   12  git add .
+   13  git add.
+   14  git add .
+   15  git status
+   16  git rm --cached .
+   17  git rm --cached -r
+   18  git rm --cached -r .
+   19  git status
+   20  git add .
+   21  git status
+   22  cowsay hola
+   23  node -v
+   24  node -v
+   25  node
+   26  nom view parrotsay
+   27  npm -v
+   28  nvm -v
+   29  curl
+   30  curl --help
+   31  sudo
+   32  nvm ls
+   33  $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   34  $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   35  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   36  nvm --version
+   37  nvm -v
+   38  nvm ls
+   39  node -v
+   40  npm -v
+   41  nvm --version
+   42  nvm -v
+   43  nvm --version
+   44  node --version
+   45  node -v
+   46  npm --version
+   47  npm -v
+   48  npm install -g parrotsay
+   49  parrotsay lenguajejs.com
+   50  parrotsay lenguajejs.com
+   51  parrotsay Hola
+   52  parrotsay escribir lo que quieran
+   53  clear
+   54  npm list -g --depth 0
+   55  npm list -g --depth 0
+   56  cowsay hello
+   57  fortune | cowsay
+   58  cousay -h
+   59  cowsay -h
+   60  cowsay -d hello
+   61  cowsay -t hello
+   62  clear
+   63  npm list -g
+   64  npm uninstall -g parrotsay
+   65  parrotsay hola
+   66  git init
+   67  code
+   68  code
+   69  code
+   70  git add .
+   71  git status
+   72  git rm --cached
+   73  git rm --cached .
+   74  git rm --cached . -r
+   75  git status
+   76  touch .gitignore
+   77  clear
+   78  git add .
+   79  git stage
+   80  git status
+   81  git commit -m
+   82  git commit -m "proyecto creado"
+   83  git status
+   84  rm --cached . -r
+   85  git rm --cached . -r
+   86  git status
+   87  cler
+   88  clear
+   89  git add .
+   90  git status
+   91  git add .
+   92  git status
+   93  git --version
+   94  git config --global user.name "raul"
+   95  git config --global user.email "rauljaciel_91@hotmail.com"
+   96  git config -list
+   97  git config --list
+   98  pwd
+   99  ls
+  100  cd OneDrive/
+  101  ls
+  102  cd Escritorio/
+  103  ls
+  104  cd Bootcamp/
+  105  ls
+  106  cd npm
+  107  ls
+  108  cd trabajandoNPM/
+  109  git add .
+  110  git status
+  111  git commit -m "Proyecto creado"
+  112  git status
+  113  ls -a
+  114  ssh-keygen -t ed25519 -C "rauljaciel_91@hotmail.com"
+  115  eval "$(ssh-agent -s)"
+  116  ssh-add /c/Users/raulj/.ssh/id_ed25519
+  117  clip < /c/Users/raulj/.ssh/id_ed25519
+  118  clip < /c/Users/raulj/.ssh/id_ed25519
+  119  ls
+  120  cd OneDrive/
+  121  cd des
+  122  ls
+  123  cd Escritorio/
+  124  cd Bootcamp/
+  125  cd npm
+  126  cd trabajandoNPM/
+  127  git remote add origin git@github.com:rulmaker/trabajandoNPM.git
+  128  git remote -v
+  129  git breanch -M main
+  130  git branch -M main
+  131  git push origin main
+  132  git init
+  133  git add .
+  134  git commit -m "Repaso módulos creado"
+  135  git remote add origin
+  136  git remote add origin git@github.com:rulmaker/apuntes_modulos.git
+  137  git remote -v
+  138  git branch -m main
+  139  git remote push origin main
+  140  git push origin main
+  141  ls -h
+  142  ls -la
+  143  ls
+  144  cd ..
+  145  ls
+  146  mv 'pruebas unitarias'/ pruebas_unitarias/
+  147  ls
+  148  mv 'pruebas unitarias'/ pruebas_unitarias
+  149  ls
+  150  cd pruebas_unitarias/
+  151  git init
+  152  git add .
+  153  git status
+  154  git commit -m 'Apuntes de unit testing con Jest'
+  155  git branch -m main
+  156  git remote add origin git@github.com:rulmaker/apuntes_unit_testing.git
+  157  git remote -v
+  158  git push origin main
+  159  ls
+  160  cd ..
+  161  cd ..
+  162  ls
+  163  mkdir java
+  164  cd java
+  165  git init
+  166  git branch -m main
+  167  git remote add origin git@github.com:rulmaker/java_apuntes.git
+  168  git remote -v
+  169  git status
+  170  git config --list
+  171  git add .
+  172  git status
+  173  git commit -m "Primer hola mundo en java"
+  174  git push origin main
+  175  git pull origin
+  176  git push origin remote
+  177  git push origin main
+  178  git pull origin
+  179  git pull origin main
+  180  git clone git@github.com:rulmaker/java_apuntes.git
+  181  cd java_apuntes/
+  182  git add .
+  183  git status
+  184  git commit -m "Primero hola mundo en java"
+  185  git remote add origin git@github.com:rulmaker/java_apuntes.git
+  186  git remote -v
+  187  git push remote main
+  188  git push origin main
+  189  git branch 'dev-raul'
+  190  git branch -l
+  191  git checkout dev-raul 
+  192  git branch main
+  193  git checkout main
+  194  git add .
+  195  git status
+  196  git push origin main
+  197  git checkout dev-raul
+  198  ls
+  199  vim README.md 
+  200  git add .
+  201  git status
+  202  git push origin dev-raul
+  203  concat README.md 
+  204  cat README.md 
+  205  git status
+  206  git commit -m "readme modified"
+  207  git push origin dev-raul 
+  208  git checkout main
+  209  cat README.md 
+  210  git pull origin main
+  211  cat README.md 
+  212  git checkout dev-raul 
+  213  git pull origin main
+  214  mkdir casting
+  215  git add .
+  216  git status
+  217  git breckout main
+  218  git pull origin main
+  219  git add .
+  220  git status
+  221  git add .
+  222  git status
+  223  git commit -m "operadores en java"
+  224  git push origin dev-raul 
+  225  git checkout main
+  226  ls
+  227  git pull origin main
+  228  git checkout dev-raul 
+  229  git init
+  230  git add .
+  231  git status
+  232  git commit -m "Carpeta apuntes creada"
+  233  git remote add origin git@github.com:rulmaker/java_notes.git
+  234  git remote -v
+  235  git branch -m main
+  236  git push origin main
+  237  mkdir ControlFlujo
+  238  cd ControlFlujo/
+  239  cd ..
+  240  git branch raul
+  241  git checkout raul 
+  242  git add .
+  243  git status
+  244  git status
+  245  git status
+  246  git add .
+  247  git commit -m "apuntes y ejercicios control de flujo"
+  248  git push origin main
+  249  git push origin raul
+  250  git checkout main
+  251  git pull origin main
+  252  git status
+  253  exit
+  254  git init
+  255  git add remote origin git@github.com:rulmaker/java_introduccion_LL.git
+  256  git remote add origin git@github.com:rulmaker/java_introduccion_LL.git
+  257  git remote -v
+  258  git branch -m main
+  259  git push origin main
+  260  git status
+  261  git add .
+  262  git commit -m 'Creado repositorio de apuntes java LinkedinLearning'
+  263  git push origin main
+  264  git branch raul
+  265  git checkout raul 
+  266  git add .
+  267  git commit -m 'for y while '
+  268  git push origin raul
+  269  git status
+  270  git checkout main
+  271  git pull origin main
+  272  git add .
+  273  git status
+  274  git commit -m "bucles"
+  275  git push origin raul
+  276  git checkout main
+  277  git pull origin main
+  278  git pull origin main
+  279  git pull origin main
+  280  git status
+  281  mkdir UnitTesting
+  282  git init
+  283  git clone git@github.com:LinkedInLearning/java-testing-with-junit-revision-2021-2424511.git
+  284  git branch -v
+  285  git checkout 03-07
+  286  git checkout 03-07e
+  287  git branch
+  288  git pull origin main
+  289  git remote add origin git@github.com:LinkedInLearning/java-testing-with-junit-revision-2021-2424511.git
+  290  git pull origin main
+  291  git branch
+  292  unzip learning-spring.zip 
+  293  cd learning-spring
+  294  cw workspace2/
+  295  cd workspace2/
+  296  ls
+  297  cd ..
+  298  ls
+  299  cd eclipse-workspace/
+  300  ls
+  301  cd ..
+  302  cd ..
+  303  cd ..
+  304  cd ..
+  305  cd ..
+  306  git branch -l
+  307  ls
+  308  cd eclipse-workspace/
+  309  ls
+  310  cd ProyectoSpring/
+  311  git branch -all
+  312  git branch --all
+  313  git checkout spring-security 
+  314  git init
+  315  git remote add origin git@github.com:rulmaker/Spring_security.git
+  316  git -m main
+  317  git branch -m main
+  318  git branch Basic Auth
+  319  git branch Basic_Auth
+  320  git branch basicAuth
+  321  git branch 
+  322  git branch
+  323  git add .
+  324  git status
+  325  git commit -m Proyecto creado
+  326  git commit -m 'proyecto creado'
+  327  git branch 'basicAuth'
+  328  git push origin main
+  329  git checkout basicAuth 
+  330  git add .
+  331  git status
+  332  git push origin main
+  333  git add .
+  334  git status
+  335  git commit -m "Urls allowed with antMatchers"
+  336  git push origin basicAuth 
+  337  git checkout main
+  338  git pull origin basicAuth 
+  339  git branch "users_and_roles"
+  340  git checkout users_and_roles 
+  341  git add .
+  342  git status
+  343  git commit -m "Users harcoded and roles created"
+  344  git push origin users_and_roles 
+  345  git checkout main
+  346  git pull origin users_and_roles 
+  347  git branch "User_Roles_authorities"
+  348  git branch -l
+  349  git checkout User_Roles_authorities 
+  350  git add .
+  351  git status
+  352  git commit -m "Permissions added"
+  353  git push origin User_Roles_authorities 
+  354  git push origin User_Roles_authorities 
+  355  git checkout main
+  356  git pull origin User_Roles_authorities 
+  357  git config -l
+  358  clear
+  359  git config -l
+  360  clear
+  361  ls -la
+  362  git init
+  363  cd .git
+  364  ls -la
+  365  cd ..
+  366  clear
+  367  touch index.html
+  368  touch style.css
+  369  git add .
+  370  git commit -m "First commit"
+  371  clear
+  372  git log
+  373  clear
+  374  git status
+  375  vim index.html
+  376  git status
+  377  git add .
+  378  git status
+  379  git restore --staged .
+  380  git status
+  381  git restore .
+  382  git status
+  383  touch NOTES.md
+  384  git status
+  385  git restore .
+  386  git status
+  387  rm NOTES.md 
+  388  ls -l
+  389  it status
+  390  git status
+  391  clear
+  392  touch .gitignore
+  393  code
+  394  git -v
+  395  git --version
+  396  git --version
+  397  git --version
+  398  pwd
+  399  clear
+  400  ls
+  401  ls -a
+  402  ls -la
+  403  ls
+  404  cd ..
+  405  ls -la
+  406  cd terminal/
+  407  ls
+  408  mkdir generation
+  409  touch hola.txt
+  410  ls
+  411  cd ..
+  412  cd '5 abril'/
+  413  cd --
+  414  ls
+  415  pwd
+  416  clear
+  417  ls
+  418  cd OneDrive/
+  419  ls
+  420  cd Escritorio/
+  421  ls
+  422  cd terminal/
+  423  ls
+  424  ls
+  425  vim hola.txt
+  426  head hola.txt 
+  427  head -n 3
+  428  head -n 3 hola.txt
+  429  cat hola.txt
+  430  less hola.txt 
+  431  touch idex.html
+  432  mv idex.html index.html
+  433  ls
+  434  nano cohorte.txt
+  435  nano index.html
+  436  ls
+  437  rm hola.txt 
+  438  cd terminal/
+  439  ls
+  440  mkdir -p assets/js/
+  441  cd assets/js
+  442  touch app.js
+  443  cd -
+  444  rm -rf assets/
+  445  ls
+  446  ls *.txt
+  447  grep hola
+  448  grep hola index.html 
+  449  cat index.html 
+  450  grep -c * hola
+  451  grep -c * "hola"
+  452  grep -c * Hola
+  453  grep hola -c *
+  454  grep "hola mundo" -c *
+  455  history > history.txt

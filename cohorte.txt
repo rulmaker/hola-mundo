@@ -1,0 +1,2 @@
+Hola Mundo desde nano
+este es un documento de texto creado desde la terminal de Git Bash usando el editor nano.

@@ -1,0 +1,20 @@
+  437  rm hola.txt 
+  438  cd terminal/
+  439  ls
+  440  mkdir -p assets/js/
+  441  cd assets/js
+  442  touch app.js
+  443  cd -
+  444  rm -rf assets/
+  445  ls
+  446  ls *.txt
+  447  grep hola
+  448  grep hola index.html 
+  449  cat index.html 
+  450  grep -c * hola
+  451  grep -c * "hola"
+  452  grep -c * Hola
+  453  grep hola -c *
+  454  grep "hola mundo" -c *
+  455  history > history.txt
+  456  history 20 > historial.txt
